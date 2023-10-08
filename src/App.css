@@ -1,0 +1,33 @@
+/* .App {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.form {
+  background-color: white;
+  box-shadow: 2px 2px 55px 32px gray;
+  width: 400px;
+  padding: 40px 20px;
+}
+
+input[type="button"] {
+  cursor: pointer;
+}
+input[type="text"] {
+  width: 300px;
+}
+
+li {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+
+  margin-top: 10px;
+  padding: 5px 10px;
+  box-shadow: 1px 1px 7px 1px gray;
+  text-transform: capitalize;
+} */
